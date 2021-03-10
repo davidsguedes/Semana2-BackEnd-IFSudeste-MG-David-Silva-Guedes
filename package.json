@@ -1,0 +1,11 @@
+{
+  "name": "semana2-backend-ifsudeste-mg-david-silva-guedes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Guedes",
+  "license": "ISC"
+}
